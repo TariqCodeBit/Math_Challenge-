@@ -54,7 +54,7 @@ After finishing the quiz, the player can choose to play again or exit.
 
 ##### code Clone
 ~~~
-
+   git clone https://github.com/TariqCodeBit/Project_B.git
 ~~~
 
 ## How to Play
