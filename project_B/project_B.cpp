@@ -60,7 +60,7 @@ short ReadHowManyQuestions() {
 	short How_Many = 0;
 	do
 	{
-		cout << "How Many Questions Do You Want To Answer ? ";
+		cout << "How Many Questions Do You Want To Answer 1 to 10 ? ";
 		cin >> How_Many;
 
 	} while (How_Many < 1 || How_Many >=  10);
