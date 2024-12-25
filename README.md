@@ -1,4 +1,4 @@
-# Math Game ![Game Photo](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2F3.files.edl.io%2F3223%2F18%2F10%2F12%2F214727-66f18f57-ef8d-42d3-add1-f978493d27fb.png&sp=1734976593Tb00fd1331b476406a32023415956556d9821e0c28c5c955e2b87837461f5fc06)
+# Math Game ![Game Photo](https://github.com/TariqCodeBit/photoProfile/blob/main/proxy-image.png)
 
 ## Overview
 #### This program implements a simple Math Quiz Game in C++. Players are presented with math questions based on their chosen difficulty level and operation type. After answering each question, the game provides feedback and calculates the final score.
@@ -54,7 +54,7 @@ After finishing the quiz, the player can choose to play again or exit.
 
 ##### code Clone
 ~~~
-
+   git clone https://github.com/TariqCodeBit/Project_B.git
 ~~~
 
 ## How to Play
