@@ -66,5 +66,5 @@ After finishing the quiz, the player can choose to play again or exit.
 4. Answer the questions presented on the screen.
 5. View the results and decide if you want to play again.
 ## Author and License
-- The Game was developed by Tatek.
+- The Game was developed by Tarek.
 - This Project is open source under the .....
