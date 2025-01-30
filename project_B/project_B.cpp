@@ -4,17 +4,14 @@ using namespace std;
 /*
   Requirements:                         Math Game
 
-			-Ask For How Many Questions Do You Want To Answer ?.
-			-Ask User Enter Questions Level Do You Want [1] Easy ,[2] Med , [3] Hard , [4] Mix ? .
-			-Ask User Enter Operation Type [1] Add ,[2] Sub ,[3] Mul ,[4] Div ,[5] Mix ? .
-			-Show The Results With Each Questions  .
+		-Ask For How Many Questions Do You Want To Answer ?.
+		-Ask User Enter Questions Level Do You Want [1] Easy ,[2] Med , [3] Hard , [4] Mix ? .
+		-Ask User Enter Operation Type [1] Add ,[2] Sub ,[3] Mul ,[4] Div ,[5] Mix ? .
+		-Show The Results With Each Questions  .
 	        -If The User Didn't Win The Question a Bill , and Screen Red "4F" .
 	        -If User Won The Question Show Green Screen "2F" .
 	        -After All Questions  Print The Results ..
 	        - Then Ask The User If s/he Want To Play Again ? Y / N 
-
-	//("Thank You")
-	// I love .......................
 			
 
 */
