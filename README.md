@@ -65,6 +65,6 @@ After finishing the quiz, the player can choose to play again or exit.
 3. Choose a difficulty level and operation type.
 4. Answer the questions presented on the screen.
 5. View the results and decide if you want to play again.
-## Author and License
+## Author
 - The Game was developed by **Tarek**.
 
